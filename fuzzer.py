@@ -6,9 +6,8 @@ ip = "MACHINE_IP"
 
 port = 9999
 timeout = 5
-prefix = "OVERFLOW1 "
 
-string = prefix + "A" * 100
+string = "A" * 100
 
 while True:
   try:
