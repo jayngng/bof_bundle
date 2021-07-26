@@ -1,3 +1,2 @@
-Most of the python codes here are borrowed from Tib3rius.
-
+Make it easier to exploit bof vulnerability
 Credit: Tib3rius.
