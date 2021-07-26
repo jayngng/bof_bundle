@@ -2,8 +2,10 @@
 
 import socket, time, sys
 
-ip = "MACHINE_IP"
 
+# !mona config -set workingfolder C:\mona
+
+ip = "IP"
 port = 9999
 timeout = 5
 
